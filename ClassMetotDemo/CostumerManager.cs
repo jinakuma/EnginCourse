@@ -5,6 +5,7 @@ using System.Text;
 namespace ClassMetotDemo
 {
     class CostumerManager
+ CustomerManager
     { 
         private List<Costumer> _costumers = new List<Costumer>();
         public CostumerManager(List<Costumer> costumers)
@@ -31,5 +32,5 @@ namespace ClassMetotDemo
             _costumers.Add(costumer);
             
         }
-    }
+
 }
