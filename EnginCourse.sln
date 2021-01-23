@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferansValue", "ReferansVa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{D203E26B-3237-468F-BE7D-5EA51974D270}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{6B4AA22F-FF83-4527-86AB-566D10E8F9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D203E26B-3237-468F-BE7D-5EA51974D270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D203E26B-3237-468F-BE7D-5EA51974D270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D203E26B-3237-468F-BE7D-5EA51974D270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4AA22F-FF83-4527-86AB-566D10E8F9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4AA22F-FF83-4527-86AB-566D10E8F9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4AA22F-FF83-4527-86AB-566D10E8F9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4AA22F-FF83-4527-86AB-566D10E8F9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
